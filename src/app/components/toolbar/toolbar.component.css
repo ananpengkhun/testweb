@@ -1,0 +1,11 @@
+h1.title_main {
+    color: blueviolet;
+    text-align: center;
+    padding-top: 50px ;
+    display: inline;
+}
+
+img {
+    margin-left: 30px;
+    display: inline;
+}
