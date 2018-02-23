@@ -12,7 +12,7 @@ app.use('/api',require('./server/api.js'))
 
 
 app.use("*",function (req,res) {
-    res.sendFile(path.join(__dirname,'index.html'))ssss
+    res.sendFile(path.join(__dirname,'index.html'))
 
 })
 
